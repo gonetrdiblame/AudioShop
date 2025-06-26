@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-header{
+    height: 80dvh;
+}
+.lh-title{
+    line-height: 1.5;
+}
